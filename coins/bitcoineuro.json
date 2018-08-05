@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Euro",
+  "symbol": "BCE",
+  "algorithm": "sha256"
+}
